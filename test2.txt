@@ -1,1 +1,1 @@
-This is second file. test for rebasing. test for merge now
+This is second file. test for rebasing. test for merge now. Made changes in feature 2
